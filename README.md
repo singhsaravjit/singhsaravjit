@@ -1,6 +1,10 @@
 <h1 align="center">Saravjit Singh</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6C8CD5&center=true&vCenter=true&width=650&lines=AI+Software+Engineer+%40+DASH;LLM+Agents+%7C+RAG+Pipelines;Building+distributed+AI+systems" alt="Typing animation: AI Software Engineer, LLM Agents, RAG Pipelines, distributed AI systems" />
+</p>
+
+<p align="center">
   AI Software Engineer @ DASH | MSCS @ Northeastern University | Boston, MA
 </p>
 
@@ -8,6 +12,7 @@
   <a href="https://saravjitsinghportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/saravjitsingh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:singh.sarav@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=singhsaravjit&style=for-the-badge&color=6C8CD5" alt="Profile views"/>
 </p>
 
 ---
